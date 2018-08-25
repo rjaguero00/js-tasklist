@@ -41,3 +41,5 @@ function addTask(e) {
 
     e.preventDefault();
 }
+
+//Delete task
