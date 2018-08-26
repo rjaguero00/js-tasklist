@@ -8,4 +8,4 @@ Simple Task list using
 	-HTML
 
 
-Live Site: https://rjaguero00.github.io/js-tasklist/
+-Live Site: https://rjaguero00.github.io/js-tasklist/
